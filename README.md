@@ -11,6 +11,7 @@ women in the entire world and the second cause of death after lung
 cancer.The use of automatic breast cancer detection and classification
 might possibly enhance the survival rate of the patients through starting
 early treatment.
+
 2.This program is designed to predict two severity of abnormalities associated with breast cancer cells: benign and malignant.
 Mammograms from MIAS is preprocessed and features are extracted using the pre-trained CNN.
 
