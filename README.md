@@ -53,8 +53,8 @@ https://www.kaggle.com/kmader/mias-mammography) dataset
 
 ## License 🔑
 
-when you push tell me to made the License 
 
+[MIT License](LICENSE)
 
 
 
