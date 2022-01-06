@@ -31,8 +31,8 @@ https://www.kaggle.com/kmader/mias-mammography) dataset
 
 | version | traning accuracy | test accuracy | f1 score | recall  | precision | Total Parameters|
 |--------|--------------|-------------|------------|----------|-------------|-------|
-|model 2 | 0.96 | 0.91 | 0.91 | 0.92 |0.92|22,665,282|
-| Findal model |0.96|0.96|0.97|0.95|0.98 |47,929,410|
+|ROI Model | 0.96 | 0.91 | 0.91 | 0.92 |0.92|22,665,282|
+| Whole Image Model (Final model) |0.96|0.96|0.97|0.95|0.98 |47,929,410|
 
 
 ## Contributors ✨
