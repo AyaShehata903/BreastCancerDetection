@@ -1,5 +1,5 @@
 ## Breast Cancer Detection  🔬 ITI "AI_Pro" ***Graduation Project***
-![](app_pic.jpg)
+![](app_pic.png)
 
 web app to detect the breast cancer in real time 
 
